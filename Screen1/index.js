@@ -16,7 +16,7 @@ import React, { useState } from "react";
           <label className="text" for="lname">Last name:</label><br/>
           <input type="text" id="lname" name="lname"/>
         </form>
-        <button onClick={handleOnClick}>Submit</button>
+        <button onClick={handleOnClick}>Submit form</button>
       </>
     );
   };
