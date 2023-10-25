@@ -1,1 +1,19 @@
-string 5
+button {
+  background : whitesmoke;
+}
+
+.center {
+  display : flex; 
+  justify-content : center; 
+  align-items: center;
+  height: 100%;
+}
+
+.text {
+  color: white
+}
+
+.background {
+  background-color:gray;
+  width: 300px;
+}
